@@ -1,0 +1,7 @@
+{
+    "device-name": "Cooling Machine",
+    "device-serial": "COOL-MAC-1234567",
+    "device-status": "on",
+    "current-item-count": "3",
+    "max-item-count": "10"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "device",
+  "version": "1.0.0",
+  "description": "Device simulation showing its state and sneding response of queries",
+  "main": "index.js",
+  "scripts": {
+    "start": "env-cmd -f .env node src/index.js",
+    "dev": "env-cmd -f .env nodemon src/index.js"
+  },
+  "author": "Suraj SIngh\u001b[D\u001b[D\u001b[i\u001b[F\u001b[B\u001b[F\u001b[B",
+  "license": "ISC",
+  "devDependencies": {
+    "env-cmd": "^10.1.0",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {}
+}
