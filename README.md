@@ -46,4 +46,4 @@ npm run start
 
 ## Authors
 
-* **Suraj Singh** - *Initial work* - [GitHub](https://github.com/rssuraj)
+* **Suraj Singh** - *Initial work* - [LinkedIn](www.linkedin.com/in/suraj-singh-6b6b3699)
